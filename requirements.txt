@@ -1,5 +1,9 @@
 altair
-numpy
 pandas
-pydeck
 streamlit
+playwright
+BeautifulSoup
+requests
+datetime
+asyncio
+nest_asyncio
