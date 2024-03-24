@@ -5,5 +5,5 @@ playwright
 BeautifulSoup
 requests
 datetime
-asyncio
-nest_asyncio
+selenium
+webdriver_manager
